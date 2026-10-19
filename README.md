@@ -1,6 +1,6 @@
 Môj prvý školsky projekt
 
-Toto je moja prvá webová stránka. Vytvoril(a) som ju na predmete
+Toto je moja prvá webová stránka. Vytvoril som ju na predmete
 PRX (Odborná prax), II.C, SPŠ IT Ignáca Gessaya v Tvrdošíne.
 
 ## Obsah
