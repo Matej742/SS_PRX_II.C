@@ -4,7 +4,7 @@ Toto je moja prvá webová stránka. Vytvoril som ju na predmete
 PRX (Odborná prax), II.C, SPŠ IT Ignáca Gessaya v Tvrdošíne.
 
 ## Obsah
-- `03_tema/moja-stranka.html` — osobný web (o mne, záujmy, kontakt)
+- `matej/index.html` — osobný web (o mne, záujmy, kontakt)
 
 ## Živá stránka
 (https://github.com/Matej742/SS_PRX_II.C/blob/main/Index.html)
